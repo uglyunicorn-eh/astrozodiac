@@ -1,0 +1,24 @@
+{
+  "name": "astrozodiac",
+  "version": "0.0.0",
+  "description": "A little blue pill for your Astro project 🤌",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uglyunicorn-eh/astrozodiac.git"
+  },
+  "keywords": [
+    "astro",
+    "node",
+    "typescript"
+  ],
+  "author": "Pavel Reznikov <pashka.reznikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uglyunicorn-eh/astrozodiac/issues"
+  },
+  "homepage": "https://github.com/uglyunicorn-eh/astrozodiac#readme"
+}
